@@ -2,6 +2,8 @@
 
 Develop a deep learning classifier using Keras library to achieve 99% accuracy on the MNIST digits dataset.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiouaneAbdallah/MNIST-Clasification/blob/main/MNIST-Clasification.ipynb)
+
 ## Dataset
 
 The MNIST handwritten digit classification problem is a standard dataset used in computer vision and deep learning.
